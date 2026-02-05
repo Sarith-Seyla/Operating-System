@@ -1,0 +1,15 @@
+  518  git add .
+  519  git commit -m "class activity 1"
+  520  git branch -M Class_Activity1
+  521  git remote add origin https://github.com/Sarith-Seyla/Operating-System.git
+  522  git push -u origin Class_Activity1
+  523  ls
+  524  cd ..
+  525  ls
+  526  mkdir class_activity2
+  527  ls
+  528  cd class_activity2
+  529  ls
+  530  nano forkchild.c
+  531  gcc -o forkchild forkchild.c
+  532  ./forkchild > result_forkchild.txt

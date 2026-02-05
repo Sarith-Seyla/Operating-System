@@ -1,0 +1,6 @@
+total 24
+-rwxr-xr-x 1 root root 16400 Feb  5 12:10 forkchild
+-rw-r--r-- 1 root root  1002 Feb  5 12:09 forkchild.c
+-rw-r--r-- 1 root root     0 Feb  5 12:10 result_forkchild.txt
+Parent process (PID: 22013) waiting for child to complete...
+Child process completed.
