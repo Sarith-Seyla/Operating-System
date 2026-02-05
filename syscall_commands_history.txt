@@ -1,0 +1,50 @@
+  138  cd /
+  139  ls
+  140  tree
+  141  exit
+  142  su seyla
+  143  ssh gic-sarith-seyla@192.168.20.231
+  144  i pa
+  145  ip a
+  146  ssh seyla@127.0.0.1
+  147  ls
+  148  mkdir class_activity1
+  149  ls
+  150  ls class_activity1
+  151  ls
+  152  cd class_activity1
+  153  ls
+  154  nano syscall1.c
+  155  ls syscall1.c\n
+  156  nano syscall1.c\n
+  157  gcc -o syscall1.c\n
+  158  gcc syscall1.c -o syscall1
+  159  ./syscall1
+  160  ./syscall1\n
+  161  nano copyfilesyscall.c
+  162  gcc copyfilesyscall.c -o copyfilesyscall
+  163  ./copyfilesyscall
+  164  nano copyfilesyscall.c
+  165  ./copyfilesyscall
+  166  ls -l result.txt
+  167  echo "Sample content" > result.txt
+  168  ls
+  169  ./copyfilesyscall
+  170  ls
+  171  ┌──(root㉿srsl)-[/home/kali/class_activity1]
+  172  └─# ls
+  173  copyfilesyscall  copyfilesyscall.c  result.txt  syscall1  syscall1.c
+  174  └─#                                                                                                               
+  175  ┌──(root㉿srsl)-[/home/kali/class_activity1]
+  176  └─# ┌──(root㉿srsl)-[/home/kali/class_activity1]
+  177  nano copyfilesyscall.c
+  178  gcc copyfilesyscall.c -o copyfilesyscall
+  179  ./copyfilesyscall
+  180  ls
+  181  nano copyfilesyscall.c
+  182  gcc copyfilesyscall.c -o copyfilesyscall\n
+  183  ./copyfilesyscall
+  184  ls
+  185  ls -l copyresult.txt
+  186  cat ^[[200~copyresult.txt
+  187  cat copyresult.txt\n
